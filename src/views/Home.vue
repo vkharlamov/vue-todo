@@ -3,7 +3,7 @@
     <img alt="Vue logo" src="../assets/logo.png" />
     <h2>Home page</h2>
     <!--<HelloWorld msg="Welcome to Your Vue.js App" />-->
-    <a href="/todos">Todo page</a>
+    <router-link to="/todos">Todo page</router-link>
   </div>
 </template>
 
